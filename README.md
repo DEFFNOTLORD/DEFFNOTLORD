@@ -2,9 +2,9 @@
 - 👀 I’m interested in Ai
 - 🌱 I’m currently learning Ai
 - 💞️ I’m looking to collaborate on software Ai projects
-- 📫shebogamer030@gmail.com
+- 📫shehab.farrag@ejust.edu.eg
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Im addicted to valorant
+- ⚡ Fun fact: Im gamer
 
 <!---
 DEFFNOTLORD/DEFFNOTLORD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
